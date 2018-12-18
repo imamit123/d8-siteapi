@@ -1,0 +1,6 @@
+name: Site API
+type: module
+description: 'Custom module for alter the existing Drupal "Site Information" form. Specifics'
+package: Admin
+core: '8.x'
+
